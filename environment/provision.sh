@@ -13,5 +13,5 @@ sudo npm install pm2 -g
 
 cd /app
 
-npm install
-npm start
+sudo npm install
+sudo npm start
